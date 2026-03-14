@@ -103,7 +103,7 @@ mini_katalog/
 
 ```bash
 # 1️⃣ Repoyu klonlayın
-git clone https://github.com/KULLANICI_ADI/mini-katalog.git
+git clone https://github.com/EMRSoftware/Mini-Katalog.git
 
 # 2️⃣ Proje dizinine gidin
 cd mini-katalog
