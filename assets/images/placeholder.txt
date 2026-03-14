@@ -1,0 +1,2 @@
+This directory is used for project assets (images, fonts, etc.).
+Place any local images here.
